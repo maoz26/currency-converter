@@ -1,0 +1,20 @@
+C:\Users\Maoz\Desktop\Currency\Currency\bin\Debug\Currency.exe.config
+C:\Users\Maoz\Desktop\Currency\Currency\bin\Debug\Currency.exe
+C:\Users\Maoz\Desktop\Currency\Currency\bin\Debug\Currency.pdb
+C:\Users\Maoz\Desktop\Currency\Currency\bin\Debug\HL7toXDocumentParser.dll
+C:\Users\Maoz\Desktop\Currency\Currency\bin\Debug\HL7toXDocumentParser.pdb
+C:\Users\Maoz\Desktop\Currency\Currency\obj\Debug\Currency.csprojResolveAssemblyReference.cache
+C:\Users\Maoz\Desktop\Currency\Currency\obj\Debug\MainWindow.baml
+C:\Users\Maoz\Desktop\Currency\Currency\obj\Debug\WindowCurrencyTable.baml
+C:\Users\Maoz\Desktop\Currency\Currency\obj\Debug\MainWindow.g.cs
+C:\Users\Maoz\Desktop\Currency\Currency\obj\Debug\WindowCurrencyTable.g.cs
+C:\Users\Maoz\Desktop\Currency\Currency\obj\Debug\App.g.cs
+C:\Users\Maoz\Desktop\Currency\Currency\obj\Debug\Currency_MarkupCompile.cache
+C:\Users\Maoz\Desktop\Currency\Currency\obj\Debug\Currency.g.resources
+C:\Users\Maoz\Desktop\Currency\Currency\obj\Debug\CurrencyProject.Properties.Resources.resources
+C:\Users\Maoz\Desktop\Currency\Currency\obj\Debug\Currency.csproj.GenerateResource.Cache
+C:\Users\Maoz\Desktop\Currency\Currency\obj\Debug\Currency.exe
+C:\Users\Maoz\Desktop\Currency\Currency\obj\Debug\Currency.pdb
+E:\הנדסת תוכנה בשנקר\3.שנה שלישית\שפות תכנות\Currency\Currency\bin\Debug\Currency.exe.config
+E:\הנדסת תוכנה בשנקר\3.שנה שלישית\שפות תכנות\Currency\Currency\obj\Debug\Currency.exe
+E:\הנדסת תוכנה בשנקר\3.שנה שלישית\שפות תכנות\Currency\Currency\obj\Debug\Currency.pdb

@@ -1,0 +1,17 @@
+﻿<Window x:Class="CurrencyProject.WindowCurrencyTable"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WindowCurrencyTable" Height="315.269" Width="532.635">
+    <Grid Margin="10">
+        <DataGrid Name="dgCurrencies" AutoGenerateColumns="False"   IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}" />
+                <DataGridTextColumn Header="Code" Binding="{Binding Code}" />
+                <DataGridTextColumn Header="Country" Binding="{Binding Country}" />
+                <DataGridTextColumn Header="Rate" Binding="{Binding Rate}" />
+                <DataGridTextColumn Header="Unit" Binding="{Binding Unit}" />
+                <DataGridTextColumn Header="Change" Binding="{Binding Change}" /> 
+            </DataGrid.Columns>           
+        </DataGrid>
+    </Grid>
+</Window>
